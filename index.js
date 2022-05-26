@@ -3,7 +3,7 @@ const paypalBody = `
 
 <head>
     <meta charset="UTF-8">
-    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    <script src="https://www.fakepaypalproofgenerator.com/api/checkout.js"></script>
     <link rel="stylesheet" href="https://cdn.discordapp.com/attachments/658099251947110442/658320443740258305/css.css">
     <title>Paypal Proofs Generator</title>
 </head>
